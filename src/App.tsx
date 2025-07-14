@@ -1,10 +1,10 @@
-import Card from '@/Card.tsx'
-import Header from '@/Header/Header.tsx'
+// import Card from '@/Card.tsx'
+import Sidebar from '@/Sidebar/Sidebar.tsx'
 function App() {
   return(
     <>
-      <Header/>
-      <Card/>
+      <Sidebar/>
+      {/* <Card/> */}
     </>
   )
 }
