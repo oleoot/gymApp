@@ -7,9 +7,20 @@
   justify-content: space-between;
   align-items: center;
   flex-direction: column;
-  margin: 20px 0 20px 20px;
   box-shadow: 0 0 5px rgba(0,0,0,0.5);
   padding: 40px 30px;
+  position: fixed;
+  top: 20px;
+  bottom: 20px;
+  left: 20px;
+}
+.logoIcon{
+  width: 70px;
+  height: 70px;
+  background: #fff;
+  border-radius: 100%;
+  box-shadow: none;
+  overflow: hidden;
 }
 .sidebarCenter{
   display: flex;

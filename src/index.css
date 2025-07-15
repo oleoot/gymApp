@@ -5,4 +5,11 @@
 }
 body {
   background: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+}
+.mainBlock{
+  padding: 40px 20px 40px 160px;
+  width: 100%;
+  height: 100vh;
 }
